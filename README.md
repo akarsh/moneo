@@ -1,7 +1,9 @@
 # moneo
 Mongoose -> Neo4J plugin / middleware
 
-[![Build Status](https://travis-ci.org/srfrnk/moneo.svg)](https://travis-ci.org/srfrnk/moneo)
+srfrnk [![Build Status](https://travis-ci.org/srfrnk/moneo.svg)](https://travis-ci.org/srfrnk/moneo)
+
+akarsh seggemu [![Build Status](https://travis-ci.org/akarsh/moneo.svg?branch=master)](https://travis-ci.org/akarsh/moneo)
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
